@@ -1,0 +1,4852 @@
+[
+  {
+    "ilce_key": "1101",
+    "ilce_title": "ABANA",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1102",
+    "ilce_title": "ACIPAYAM",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1103",
+    "ilce_title": "ADALAR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1104",
+    "ilce_title": "SEYHAN",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1105",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1106",
+    "ilce_title": "ADİLCEVAZ",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1107",
+    "ilce_title": "AFŞİN",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1108",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1109",
+    "ilce_title": "AĞLASUN",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1110",
+    "ilce_title": "AĞIN",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1111",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1112",
+    "ilce_title": "AHLAT",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1113",
+    "ilce_title": "AKÇAABAT",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1114",
+    "ilce_title": "AKÇADAĞ",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1115",
+    "ilce_title": "AKÇAKALE",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1116",
+    "ilce_title": "AKÇAKOCA",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1117",
+    "ilce_title": "AKDAĞMADENİ",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1118",
+    "ilce_title": "AKHİSAR",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1119",
+    "ilce_title": "AKKUŞ",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1120",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1121",
+    "ilce_title": "AKSEKİ",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1122",
+    "ilce_title": "AKŞEHİR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1123",
+    "ilce_title": "AKYAZI",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1124",
+    "ilce_title": "ALACA",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1125",
+    "ilce_title": "ALAÇAM",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1126",
+    "ilce_title": "ALANYA",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1127",
+    "ilce_title": "ALAŞEHİR",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1128",
+    "ilce_title": "ALİAĞA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1129",
+    "ilce_title": "ALMUS",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1130",
+    "ilce_title": "ALTINDAĞ",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1131",
+    "ilce_title": "ALTINÖZÜ",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1132",
+    "ilce_title": "ALTINTAŞ",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1133",
+    "ilce_title": "ALUCRA",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1134",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1135",
+    "ilce_title": "ANAMUR",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1136",
+    "ilce_title": "ANDIRIN",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1139",
+    "ilce_title": "ARABAN",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1140",
+    "ilce_title": "ARAÇ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1141",
+    "ilce_title": "ARAKLI",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1142",
+    "ilce_title": "ARALIK",
+    "ilce_sehirkey": "76"
+  },
+  {
+    "ilce_key": "1143",
+    "ilce_title": "ARAPGİR",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1144",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "1145",
+    "ilce_title": "ARDANUÇ",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1146",
+    "ilce_title": "ARDEŞEN",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1147",
+    "ilce_title": "ARHAVİ",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1148",
+    "ilce_title": "ARGUVAN",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1149",
+    "ilce_title": "ARPAÇAY",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1150",
+    "ilce_title": "ARSİN",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1151",
+    "ilce_title": "ARTOVA",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1152",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1153",
+    "ilce_title": "AŞKALE",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1154",
+    "ilce_title": "ATABEY",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1155",
+    "ilce_title": "AVANOS",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1156",
+    "ilce_title": "AYANCIK",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1157",
+    "ilce_title": "AYAŞ",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1158",
+    "ilce_title": "AYBASTI",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1160",
+    "ilce_title": "AYVACIK",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1161",
+    "ilce_title": "AYVALIK",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1162",
+    "ilce_title": "AZDAVAY",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1163",
+    "ilce_title": "BABAESKİ",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1164",
+    "ilce_title": "BAFRA",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1165",
+    "ilce_title": "BAHÇE",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "1166",
+    "ilce_title": "BAKIRKÖY",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1167",
+    "ilce_title": "BALA",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1169",
+    "ilce_title": "BALYA",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1170",
+    "ilce_title": "BANAZ",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1171",
+    "ilce_title": "BANDIRMA",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1172",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "74"
+  },
+  {
+    "ilce_key": "1173",
+    "ilce_title": "BASKİL",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1174",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1175",
+    "ilce_title": "BAŞKALE",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1176",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "69"
+  },
+  {
+    "ilce_key": "1177",
+    "ilce_title": "BAYAT",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1178",
+    "ilce_title": "BAYINDIR",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1179",
+    "ilce_title": "BAYKAN",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1180",
+    "ilce_title": "BAYRAMİÇ",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1181",
+    "ilce_title": "BERGAMA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1182",
+    "ilce_title": "BESNİ",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1183",
+    "ilce_title": "BEŞİKTAŞ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1184",
+    "ilce_title": "BEŞİRİ",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1185",
+    "ilce_title": "BEYKOZ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1186",
+    "ilce_title": "BEYOĞLU",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1187",
+    "ilce_title": "BEYPAZARI",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1188",
+    "ilce_title": "BEYŞEHİR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1189",
+    "ilce_title": "BEYTÜŞŞEBAP",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1190",
+    "ilce_title": "BİGA",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1191",
+    "ilce_title": "BİGADİÇ",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1192",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1193",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1194",
+    "ilce_title": "BİRECİK",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1195",
+    "ilce_title": "BİSMİL",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1196",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1197",
+    "ilce_title": "BODRUM",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1198",
+    "ilce_title": "BOĞAZLIYAN",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1199",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1200",
+    "ilce_title": "BOLVADİN",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1201",
+    "ilce_title": "BOR",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1202",
+    "ilce_title": "BORÇKA",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1203",
+    "ilce_title": "BORNOVA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1204",
+    "ilce_title": "BOYABAT",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1205",
+    "ilce_title": "BOZCAADA",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1206",
+    "ilce_title": "BOZDOĞAN",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1207",
+    "ilce_title": "BOZKIR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1208",
+    "ilce_title": "BOZKURT",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1209",
+    "ilce_title": "BOZOVA",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1210",
+    "ilce_title": "BOZÜYÜK",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1211",
+    "ilce_title": "BUCAK",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1212",
+    "ilce_title": "BULANCAK",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1213",
+    "ilce_title": "BULANIK",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1214",
+    "ilce_title": "BULDAN",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1215",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1216",
+    "ilce_title": "BURHANİYE",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1218",
+    "ilce_title": "BÜNYAN",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1219",
+    "ilce_title": "CEYHAN",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1220",
+    "ilce_title": "CEYLANPINAR",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1221",
+    "ilce_title": "CİDE",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1222",
+    "ilce_title": "CİHANBEYLİ",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1223",
+    "ilce_title": "CİZRE",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1224",
+    "ilce_title": "ÇAL",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1225",
+    "ilce_title": "ÇAMARDI",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1226",
+    "ilce_title": "ÇAMELİ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1227",
+    "ilce_title": "ÇAMLIDERE",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1228",
+    "ilce_title": "ÇAMLIHEMŞİN",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1229",
+    "ilce_title": "ÇAN",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1230",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1231",
+    "ilce_title": "ÇANKAYA",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1232",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1233",
+    "ilce_title": "ÇARDAK",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1234",
+    "ilce_title": "ÇARŞAMBA",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1235",
+    "ilce_title": "ÇAT",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1236",
+    "ilce_title": "ÇATAK",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1237",
+    "ilce_title": "ÇATALCA",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1238",
+    "ilce_title": "ÇATALZEYTİN",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1239",
+    "ilce_title": "ÇAY",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1240",
+    "ilce_title": "ÇAYCUMA",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1241",
+    "ilce_title": "ÇAYELİ",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1242",
+    "ilce_title": "ÇAYIRALAN",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1243",
+    "ilce_title": "ÇAYIRLI",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1244",
+    "ilce_title": "ÇAYKARA",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1245",
+    "ilce_title": "ÇEKEREK",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1246",
+    "ilce_title": "ÇELİKHAN",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1247",
+    "ilce_title": "ÇEMİŞGEZEK",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1248",
+    "ilce_title": "ÇERKEŞ",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1249",
+    "ilce_title": "ÇERMİK",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1250",
+    "ilce_title": "ÇERKEZKÖY",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1251",
+    "ilce_title": "ÇEŞME",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1252",
+    "ilce_title": "ÇILDIR",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "1253",
+    "ilce_title": "ÇINAR",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1254",
+    "ilce_title": "ÇİÇEKDAĞI",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1255",
+    "ilce_title": "ÇİFTELER",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1256",
+    "ilce_title": "ÇİNE",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1257",
+    "ilce_title": "ÇİVRİL",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1258",
+    "ilce_title": "ÇORLU",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1259",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1260",
+    "ilce_title": "ÇUBUK",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1261",
+    "ilce_title": "ÇUKURCA",
+    "ilce_sehirkey": "30"
+  },
+  {
+    "ilce_key": "1262",
+    "ilce_title": "ÇUMRA",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1263",
+    "ilce_title": "ÇÜNGÜŞ",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1264",
+    "ilce_title": "DADAY",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1265",
+    "ilce_title": "DARENDE",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1266",
+    "ilce_title": "DATÇA",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1267",
+    "ilce_title": "DAZKIRI",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1268",
+    "ilce_title": "DELİCE",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1269",
+    "ilce_title": "DEMİRCİ",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1270",
+    "ilce_title": "DEMİRKÖY",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1272",
+    "ilce_title": "DERELİ",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1273",
+    "ilce_title": "DERİK",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1274",
+    "ilce_title": "DERİNKUYU",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1275",
+    "ilce_title": "DEVELİ",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1276",
+    "ilce_title": "DEVREK",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1277",
+    "ilce_title": "DEVREKANİ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1278",
+    "ilce_title": "DİCLE",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1279",
+    "ilce_title": "DİGOR",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1280",
+    "ilce_title": "DİKİLİ",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1281",
+    "ilce_title": "DİNAR",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1282",
+    "ilce_title": "DİVRİĞİ",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1283",
+    "ilce_title": "DİYADİN",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1285",
+    "ilce_title": "DOĞANHİSAR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1286",
+    "ilce_title": "DOĞANŞEHİR",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1287",
+    "ilce_title": "DOĞUBAYAZIT",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1288",
+    "ilce_title": "DOMANİÇ",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1289",
+    "ilce_title": "DÖRTYOL",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1290",
+    "ilce_title": "DURAĞAN",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1291",
+    "ilce_title": "DURSUNBEY",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1292",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1293",
+    "ilce_title": "ECEABAT",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1294",
+    "ilce_title": "EDREMİT",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1295",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1296",
+    "ilce_title": "EFLANİ",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1297",
+    "ilce_title": "EĞİRDİR",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1298",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1299",
+    "ilce_title": "ELBİSTAN",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1300",
+    "ilce_title": "ELDİVAN",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1301",
+    "ilce_title": "ELEŞKİRT",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1302",
+    "ilce_title": "ELMADAĞ",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1303",
+    "ilce_title": "ELMALI",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1304",
+    "ilce_title": "EMET",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1306",
+    "ilce_title": "EMİRDAĞ",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1307",
+    "ilce_title": "ENEZ",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1308",
+    "ilce_title": "ERBAA",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1309",
+    "ilce_title": "ERCİŞ",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1310",
+    "ilce_title": "ERDEK",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1311",
+    "ilce_title": "ERDEMLİ",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1312",
+    "ilce_title": "EREĞLİ",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1313",
+    "ilce_title": "EREĞLİ",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1314",
+    "ilce_title": "ERFELEK",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1315",
+    "ilce_title": "ERGANİ",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1316",
+    "ilce_title": "ERMENEK",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1317",
+    "ilce_title": "ERUH",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1318",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1320",
+    "ilce_title": "ESPİYE",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1321",
+    "ilce_title": "ESKİPAZAR",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1323",
+    "ilce_title": "EŞME",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1324",
+    "ilce_title": "EYNESİL",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1325",
+    "ilce_title": "EYÜP",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1326",
+    "ilce_title": "EZİNE",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1327",
+    "ilce_title": "FATİH",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1328",
+    "ilce_title": "FATSA",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1329",
+    "ilce_title": "FEKE",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1330",
+    "ilce_title": "FELAHİYE",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1331",
+    "ilce_title": "FETHİYE",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1332",
+    "ilce_title": "FINDIKLI",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1333",
+    "ilce_title": "FİNİKE",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1334",
+    "ilce_title": "FOÇA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1336",
+    "ilce_title": "GAZİOSMANPAŞA",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1337",
+    "ilce_title": "GAZİPAŞA",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1338",
+    "ilce_title": "GEBZE",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "1339",
+    "ilce_title": "GEDİZ",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1340",
+    "ilce_title": "GELİBOLU",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1341",
+    "ilce_title": "GELENDOST",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1342",
+    "ilce_title": "GEMEREK",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1343",
+    "ilce_title": "GEMLİK",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1344",
+    "ilce_title": "GENÇ",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1345",
+    "ilce_title": "GERCÜŞ",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1346",
+    "ilce_title": "GEREDE",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1347",
+    "ilce_title": "GERGER",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1348",
+    "ilce_title": "GERMENCİK",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1349",
+    "ilce_title": "GERZE",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1350",
+    "ilce_title": "GEVAŞ",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1351",
+    "ilce_title": "GEYVE",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1352",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1353",
+    "ilce_title": "GÖKSUN",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1354",
+    "ilce_title": "GÖLBAŞI",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1355",
+    "ilce_title": "GÖLCÜK",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "1356",
+    "ilce_title": "GÖLE",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "1357",
+    "ilce_title": "GÖLHİSAR",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1358",
+    "ilce_title": "GÖLKÖY",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1359",
+    "ilce_title": "GÖLPAZARI",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1360",
+    "ilce_title": "GÖNEN",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1361",
+    "ilce_title": "GÖRELE",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1362",
+    "ilce_title": "GÖRDES",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1363",
+    "ilce_title": "GÖYNÜCEK",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1364",
+    "ilce_title": "GÖYNÜK",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1365",
+    "ilce_title": "GÜDÜL",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1366",
+    "ilce_title": "GÜLNAR",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1367",
+    "ilce_title": "GÜLŞEHİR",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1368",
+    "ilce_title": "GÜMÜŞHACIKÖY",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1369",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1370",
+    "ilce_title": "GÜNDOĞMUŞ",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1371",
+    "ilce_title": "GÜNEY",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1372",
+    "ilce_title": "GÜRPINAR",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1373",
+    "ilce_title": "GÜRÜN",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1374",
+    "ilce_title": "HACIBEKTAŞ",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1375",
+    "ilce_title": "HADİM",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1376",
+    "ilce_title": "HAFİK",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1377",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "30"
+  },
+  {
+    "ilce_key": "1378",
+    "ilce_title": "HALFETİ",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1379",
+    "ilce_title": "HAMUR",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1380",
+    "ilce_title": "HANAK",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "1381",
+    "ilce_title": "HANİ",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1382",
+    "ilce_title": "HASSA",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1384",
+    "ilce_title": "HAVRAN",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1385",
+    "ilce_title": "HAVSA",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1386",
+    "ilce_title": "HAVZA",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1387",
+    "ilce_title": "HAYMANA",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1388",
+    "ilce_title": "HAYRABOLU",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1389",
+    "ilce_title": "HAZRO",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1390",
+    "ilce_title": "HEKİMHAN",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1391",
+    "ilce_title": "HENDEK",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1392",
+    "ilce_title": "HINIS",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1393",
+    "ilce_title": "HİLVAN",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1394",
+    "ilce_title": "HİZAN",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1395",
+    "ilce_title": "HOPA",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1396",
+    "ilce_title": "HORASAN",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1397",
+    "ilce_title": "HOZAT",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1398",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "76"
+  },
+  {
+    "ilce_key": "1399",
+    "ilce_title": "ILGAZ",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1400",
+    "ilce_title": "ILGIN",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1401",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1403",
+    "ilce_title": "İDİL",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1404",
+    "ilce_title": "İHSANİYE",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1405",
+    "ilce_title": "İKİZDERE",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1406",
+    "ilce_title": "İLİÇ",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1407",
+    "ilce_title": "İMRANLI",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1408",
+    "ilce_title": "GÖKÇEADA",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1409",
+    "ilce_title": "İNCESU",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1410",
+    "ilce_title": "İNEBOLU",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1411",
+    "ilce_title": "İNEGÖL",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1412",
+    "ilce_title": "İPSALA",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1413",
+    "ilce_title": "İSKENDERUN",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1414",
+    "ilce_title": "İSKİLİP",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1415",
+    "ilce_title": "İSLAHİYE",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1416",
+    "ilce_title": "İSPİR",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1418",
+    "ilce_title": "İVRİNDİ",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1420",
+    "ilce_title": "İZNİK",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1421",
+    "ilce_title": "KADIKÖY",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1422",
+    "ilce_title": "KADINHANI",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1423",
+    "ilce_title": "KADİRLİ",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "1424",
+    "ilce_title": "KAĞIZMAN",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1425",
+    "ilce_title": "KAHTA",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1426",
+    "ilce_title": "KALE",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1427",
+    "ilce_title": "KALECİK",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1428",
+    "ilce_title": "KALKANDERE",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1429",
+    "ilce_title": "KAMAN",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1430",
+    "ilce_title": "KANDIRA",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "1431",
+    "ilce_title": "KANGAL",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1432",
+    "ilce_title": "KARABURUN",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1433",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1434",
+    "ilce_title": "KARACABEY",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1435",
+    "ilce_title": "KARACASU",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1436",
+    "ilce_title": "KARAHALLI",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1437",
+    "ilce_title": "KARAİSALI",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1438",
+    "ilce_title": "KARAKOÇAN",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1439",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1440",
+    "ilce_title": "KARAMÜRSEL",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "1441",
+    "ilce_title": "KARAPINAR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1442",
+    "ilce_title": "KARASU",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1443",
+    "ilce_title": "KARATAŞ",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1444",
+    "ilce_title": "KARAYAZI",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1445",
+    "ilce_title": "KARGI",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1446",
+    "ilce_title": "KARLIOVA",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1447",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1448",
+    "ilce_title": "KARŞIYAKA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1449",
+    "ilce_title": "KARTAL",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1450",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1451",
+    "ilce_title": "KAŞ",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1452",
+    "ilce_title": "KAVAK",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1453",
+    "ilce_title": "KAYNARCA",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1455",
+    "ilce_title": "KEBAN",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1456",
+    "ilce_title": "KEÇİBORLU",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1457",
+    "ilce_title": "KELES",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1458",
+    "ilce_title": "KELKİT",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1459",
+    "ilce_title": "KEMAH",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1460",
+    "ilce_title": "KEMALİYE",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1461",
+    "ilce_title": "KEMALPAŞA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1462",
+    "ilce_title": "KEPSUT",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1463",
+    "ilce_title": "KESKİN",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1464",
+    "ilce_title": "KEŞAN",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1465",
+    "ilce_title": "KEŞAP",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1466",
+    "ilce_title": "KIBRISCIK",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1467",
+    "ilce_title": "KINIK",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1468",
+    "ilce_title": "KIRIKHAN",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1469",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1470",
+    "ilce_title": "KIRKAĞAÇ",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1471",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1472",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1473",
+    "ilce_title": "KIZILCAHAMAM",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1474",
+    "ilce_title": "KIZILTEPE",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1475",
+    "ilce_title": "KİĞI",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1476",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "79"
+  },
+  {
+    "ilce_key": "1477",
+    "ilce_title": "KİRAZ",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1479",
+    "ilce_title": "KOÇARLI",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1480",
+    "ilce_title": "KOFÇAZ",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1482",
+    "ilce_title": "KORGAN",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1483",
+    "ilce_title": "KORKUTELİ",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1484",
+    "ilce_title": "KOYULHİSAR",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1485",
+    "ilce_title": "KOZAKLI",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1486",
+    "ilce_title": "KOZAN",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1487",
+    "ilce_title": "KOZLUK",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1488",
+    "ilce_title": "KÖYCEĞİZ",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1489",
+    "ilce_title": "KULA",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1490",
+    "ilce_title": "KULP",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1491",
+    "ilce_title": "KULU",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1492",
+    "ilce_title": "KUMLUCA",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1493",
+    "ilce_title": "KUMRU",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1494",
+    "ilce_title": "KURŞUNLU",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1495",
+    "ilce_title": "KURTALAN",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1496",
+    "ilce_title": "KURUCAŞİLE",
+    "ilce_sehirkey": "74"
+  },
+  {
+    "ilce_key": "1497",
+    "ilce_title": "KUŞADASI",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1498",
+    "ilce_title": "KUYUCAK",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1499",
+    "ilce_title": "KÜRE",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1500",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1501",
+    "ilce_title": "LADİK",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1502",
+    "ilce_title": "LALAPAŞA",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1503",
+    "ilce_title": "LAPSEKİ",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1504",
+    "ilce_title": "LİCE",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1505",
+    "ilce_title": "LÜLEBURGAZ",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1506",
+    "ilce_title": "MADEN",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1507",
+    "ilce_title": "MAÇKA",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1508",
+    "ilce_title": "MAHMUDİYE",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1510",
+    "ilce_title": "MALAZGİRT",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1511",
+    "ilce_title": "MALKARA",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1512",
+    "ilce_title": "MANAVGAT",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1514",
+    "ilce_title": "MANYAS",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1517",
+    "ilce_title": "MARMARİS",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1518",
+    "ilce_title": "MAZGİRT",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1519",
+    "ilce_title": "MAZIDAĞI",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1520",
+    "ilce_title": "MECİTÖZÜ",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1521",
+    "ilce_title": "MENEMEN",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1522",
+    "ilce_title": "MENGEN",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1523",
+    "ilce_title": "MERİÇ",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1524",
+    "ilce_title": "MERZİFON",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1525",
+    "ilce_title": "MESUDİYE",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1526",
+    "ilce_title": "MİDYAT",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1527",
+    "ilce_title": "MİHALIÇÇIK",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1528",
+    "ilce_title": "MİLAS",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1529",
+    "ilce_title": "MUCUR",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1530",
+    "ilce_title": "MUDANYA",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1531",
+    "ilce_title": "MUDURNU",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1533",
+    "ilce_title": "MURADİYE",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1534",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1535",
+    "ilce_title": "MUSTAFAKEMALPAŞA",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1536",
+    "ilce_title": "MUT",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1537",
+    "ilce_title": "MUTKİ",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1538",
+    "ilce_title": "MURATLI",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1539",
+    "ilce_title": "NALLIHAN",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1540",
+    "ilce_title": "NARMAN",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1541",
+    "ilce_title": "NAZIMİYE",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1542",
+    "ilce_title": "NAZİLLİ",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1543",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1544",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1545",
+    "ilce_title": "NİKSAR",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1546",
+    "ilce_title": "NİZİP",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1547",
+    "ilce_title": "NUSAYBİN",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1548",
+    "ilce_title": "OF",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1549",
+    "ilce_title": "OĞUZELİ",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1550",
+    "ilce_title": "OLTU",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1551",
+    "ilce_title": "OLUR",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1553",
+    "ilce_title": "ORHANELİ",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1554",
+    "ilce_title": "ORHANGAZİ",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1555",
+    "ilce_title": "ORTA",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1556",
+    "ilce_title": "ORTAKÖY",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1557",
+    "ilce_title": "ORTAKÖY",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1558",
+    "ilce_title": "OSMANCIK",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1559",
+    "ilce_title": "OSMANELİ",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1560",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "1561",
+    "ilce_title": "OVACIK",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1562",
+    "ilce_title": "OVACIK",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1563",
+    "ilce_title": "ÖDEMİŞ",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1564",
+    "ilce_title": "ÖMERLİ",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1565",
+    "ilce_title": "ÖZALP",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1566",
+    "ilce_title": "PALU",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1567",
+    "ilce_title": "PASİNLER",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1568",
+    "ilce_title": "PATNOS",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1569",
+    "ilce_title": "PAZAR",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1570",
+    "ilce_title": "PAZARCIK",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1571",
+    "ilce_title": "PAZARYERİ",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1572",
+    "ilce_title": "PEHLİVANKÖY",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1573",
+    "ilce_title": "PERŞEMBE",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1574",
+    "ilce_title": "PERTEK",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1575",
+    "ilce_title": "PERVARİ",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1576",
+    "ilce_title": "PINARBAŞI",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1577",
+    "ilce_title": "PINARHİSAR",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1578",
+    "ilce_title": "POLATLI",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1579",
+    "ilce_title": "POSOF",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "1580",
+    "ilce_title": "POZANTI",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1581",
+    "ilce_title": "PÜLÜMÜR",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1582",
+    "ilce_title": "PÜTÜRGE",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1583",
+    "ilce_title": "REFAHİYE",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1584",
+    "ilce_title": "REŞADİYE",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1585",
+    "ilce_title": "REYHANLI",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1586",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1587",
+    "ilce_title": "SAFRANBOLU",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1588",
+    "ilce_title": "SAİMBEYLİ",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1590",
+    "ilce_title": "SALİHLİ",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1591",
+    "ilce_title": "SAMANDAĞ",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1592",
+    "ilce_title": "SAMSAT",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1594",
+    "ilce_title": "SANDIKLI",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1595",
+    "ilce_title": "SAPANCA",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1596",
+    "ilce_title": "SARAY",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1597",
+    "ilce_title": "SARAYKÖY",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1598",
+    "ilce_title": "SARAYÖNÜ",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1599",
+    "ilce_title": "SARICAKAYA",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1600",
+    "ilce_title": "SARIGÖL",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1601",
+    "ilce_title": "SARIKAMIŞ",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1602",
+    "ilce_title": "SARIKAYA",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1603",
+    "ilce_title": "SARIOĞLAN",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1604",
+    "ilce_title": "SARIYER",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1605",
+    "ilce_title": "SARIZ",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1606",
+    "ilce_title": "SARUHANLI",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1607",
+    "ilce_title": "SASON",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1608",
+    "ilce_title": "SAVAŞTEPE",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1609",
+    "ilce_title": "SAVUR",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1610",
+    "ilce_title": "SEBEN",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1611",
+    "ilce_title": "SEFERİHİSAR",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1612",
+    "ilce_title": "SELÇUK",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1613",
+    "ilce_title": "SELENDİ",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1614",
+    "ilce_title": "SELİM",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1615",
+    "ilce_title": "SENİRKENT",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1616",
+    "ilce_title": "SERİK",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1617",
+    "ilce_title": "SEYDİŞEHİR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1618",
+    "ilce_title": "SEYİTGAZİ",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1619",
+    "ilce_title": "SINDIRGI",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1620",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1621",
+    "ilce_title": "SİLİFKE",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1622",
+    "ilce_title": "SİLİVRİ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1623",
+    "ilce_title": "SİLOPİ",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1624",
+    "ilce_title": "SİLVAN",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1625",
+    "ilce_title": "SİMAV",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1626",
+    "ilce_title": "SİNANPAŞA",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1627",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1628",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1629",
+    "ilce_title": "SİVASLI",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1630",
+    "ilce_title": "SİVEREK",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1631",
+    "ilce_title": "SİVRİCE",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1632",
+    "ilce_title": "SİVRİHİSAR",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1633",
+    "ilce_title": "SOLHAN",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1634",
+    "ilce_title": "SOMA",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1635",
+    "ilce_title": "SORGUN",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1636",
+    "ilce_title": "SÖĞÜT",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1637",
+    "ilce_title": "SÖKE",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1638",
+    "ilce_title": "SULAKYURT",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1639",
+    "ilce_title": "SULTANDAĞI",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1640",
+    "ilce_title": "SULTANHİSAR",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1641",
+    "ilce_title": "SULUOVA",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1642",
+    "ilce_title": "SUNGURLU",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1643",
+    "ilce_title": "SURUÇ",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1644",
+    "ilce_title": "SUSURLUK",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1645",
+    "ilce_title": "SUSUZ",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1646",
+    "ilce_title": "SUŞEHRİ",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1647",
+    "ilce_title": "SÜRMENE",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1648",
+    "ilce_title": "SÜTÇÜLER",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1649",
+    "ilce_title": "ŞABANÖZÜ",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1650",
+    "ilce_title": "ŞARKIŞLA",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1651",
+    "ilce_title": "ŞARKİKARAAĞAÇ",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1652",
+    "ilce_title": "ŞARKÖY",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1653",
+    "ilce_title": "ŞAVŞAT",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1654",
+    "ilce_title": "ŞEBİNKARAHİSAR",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1655",
+    "ilce_title": "ŞEFAATLİ",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1656",
+    "ilce_title": "ŞEMDİNLİ",
+    "ilce_sehirkey": "30"
+  },
+  {
+    "ilce_key": "1657",
+    "ilce_title": "ŞENKAYA",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1658",
+    "ilce_title": "ŞEREFLİKOÇHİSAR",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1659",
+    "ilce_title": "ŞİLE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1660",
+    "ilce_title": "ŞİRAN",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1661",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1662",
+    "ilce_title": "ŞİRVAN",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1663",
+    "ilce_title": "ŞİŞLİ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1664",
+    "ilce_title": "ŞUHUT",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1665",
+    "ilce_title": "TARSUS",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1666",
+    "ilce_title": "TAŞKÖPRÜ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1667",
+    "ilce_title": "TAŞLIÇAY",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1668",
+    "ilce_title": "TAŞOVA",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1669",
+    "ilce_title": "TATVAN",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1670",
+    "ilce_title": "TAVAS",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1671",
+    "ilce_title": "TAVŞANLI",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1672",
+    "ilce_title": "TEFENNİ",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1674",
+    "ilce_title": "TEKMAN",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1675",
+    "ilce_title": "TERCAN",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1676",
+    "ilce_title": "TERME",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1677",
+    "ilce_title": "TİRE",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1678",
+    "ilce_title": "TİREBOLU",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1679",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1680",
+    "ilce_title": "TOMARZA",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1681",
+    "ilce_title": "TONYA",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1682",
+    "ilce_title": "TORBALI",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1683",
+    "ilce_title": "TORTUM",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1684",
+    "ilce_title": "TORUL",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1685",
+    "ilce_title": "TOSYA",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1687",
+    "ilce_title": "TUFANBEYLİ",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1688",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "62"
+  },
+  {
+    "ilce_key": "1689",
+    "ilce_title": "TURGUTLU",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1690",
+    "ilce_title": "TURHAL",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1691",
+    "ilce_title": "TUTAK",
+    "ilce_sehirkey": "4"
+  },
+  {
+    "ilce_key": "1692",
+    "ilce_title": "TUZLUCA",
+    "ilce_sehirkey": "76"
+  },
+  {
+    "ilce_key": "1693",
+    "ilce_title": "TÜRKELİ",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1694",
+    "ilce_title": "TÜRKOĞLU",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1695",
+    "ilce_title": "ULA",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1696",
+    "ilce_title": "ULUBEY",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1697",
+    "ilce_title": "ULUBEY",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1698",
+    "ilce_title": "ULUDERE",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1699",
+    "ilce_title": "ULUBORLU",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1700",
+    "ilce_title": "ULUKIŞLA",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1701",
+    "ilce_title": "ULUS",
+    "ilce_sehirkey": "74"
+  },
+  {
+    "ilce_key": "1703",
+    "ilce_title": "URLA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1704",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "64"
+  },
+  {
+    "ilce_key": "1705",
+    "ilce_title": "UZUNKÖPRÜ",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1706",
+    "ilce_title": "ÜNYE",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1707",
+    "ilce_title": "ÜRGÜP",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1708",
+    "ilce_title": "ÜSKÜDAR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1709",
+    "ilce_title": "VAKFIKEBİR",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1711",
+    "ilce_title": "VARTO",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1712",
+    "ilce_title": "VEZİRKÖPRÜ",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1713",
+    "ilce_title": "VİRANŞEHİR",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1714",
+    "ilce_title": "VİZE",
+    "ilce_sehirkey": "39"
+  },
+  {
+    "ilce_key": "1715",
+    "ilce_title": "YAHYALI",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1716",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "1717",
+    "ilce_title": "YALVAÇ",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1718",
+    "ilce_title": "YAPRAKLI",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1719",
+    "ilce_title": "YATAĞAN",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1720",
+    "ilce_title": "YAVUZELİ",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1721",
+    "ilce_title": "YAYLADAĞI",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1722",
+    "ilce_title": "YENİCE",
+    "ilce_sehirkey": "17"
+  },
+  {
+    "ilce_key": "1723",
+    "ilce_title": "YENİMAHALLE",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1724",
+    "ilce_title": "YENİPAZAR",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1725",
+    "ilce_title": "YENİŞEHİR",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1726",
+    "ilce_title": "YERKÖY",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1727",
+    "ilce_title": "YEŞİLHİSAR",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1728",
+    "ilce_title": "YEŞİLOVA",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1729",
+    "ilce_title": "YEŞİLYURT",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1730",
+    "ilce_title": "YIĞILCA",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1731",
+    "ilce_title": "YILDIZELİ",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1732",
+    "ilce_title": "YOMRA",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1733",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1734",
+    "ilce_title": "YUMURTALIK",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1735",
+    "ilce_title": "YUNAK",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1736",
+    "ilce_title": "YUSUFELİ",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1737",
+    "ilce_title": "YÜKSEKOVA",
+    "ilce_sehirkey": "30"
+  },
+  {
+    "ilce_key": "1738",
+    "ilce_title": "ZARA",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1739",
+    "ilce_title": "ZEYTİNBURNU",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1740",
+    "ilce_title": "ZİLE",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1741",
+    "ilce_title": "MERKEZ",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1742",
+    "ilce_title": "DALAMAN",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1743",
+    "ilce_title": "DÜZİÇİ",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "1744",
+    "ilce_title": "GÖLBAŞI",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1745",
+    "ilce_title": "KEÇİÖREN",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1746",
+    "ilce_title": "MAMAK",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1747",
+    "ilce_title": "SİNCAN",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1748",
+    "ilce_title": "YÜREĞİR",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1749",
+    "ilce_title": "ACIGÖL",
+    "ilce_sehirkey": "50"
+  },
+  {
+    "ilce_key": "1750",
+    "ilce_title": "ADAKLI",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1751",
+    "ilce_title": "AHMETLİ",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1752",
+    "ilce_title": "AKKIŞLA",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1753",
+    "ilce_title": "AKÖREN",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1754",
+    "ilce_title": "AKPINAR",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1755",
+    "ilce_title": "AKSU",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1756",
+    "ilce_title": "AKYAKA",
+    "ilce_sehirkey": "36"
+  },
+  {
+    "ilce_key": "1757",
+    "ilce_title": "ALADAĞ",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1758",
+    "ilce_title": "ALAPLI",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1759",
+    "ilce_title": "ALPU",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1760",
+    "ilce_title": "ALTINEKİN",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1761",
+    "ilce_title": "AMASRA",
+    "ilce_sehirkey": "74"
+  },
+  {
+    "ilce_key": "1762",
+    "ilce_title": "ARICAK",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1763",
+    "ilce_title": "ASARCIK",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1764",
+    "ilce_title": "ASLANAPA",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1765",
+    "ilce_title": "ATKARACALAR",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1766",
+    "ilce_title": "AYDINCIK",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1767",
+    "ilce_title": "AYDINTEPE",
+    "ilce_sehirkey": "69"
+  },
+  {
+    "ilce_key": "1768",
+    "ilce_title": "AYRANCI",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1769",
+    "ilce_title": "BABADAĞ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1770",
+    "ilce_title": "BAHÇESARAY",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1771",
+    "ilce_title": "BAŞMAKÇI",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1772",
+    "ilce_title": "BATTALGAZİ",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1773",
+    "ilce_title": "BAYAT",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1774",
+    "ilce_title": "BEKİLLİ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1775",
+    "ilce_title": "BEŞİKDÜZÜ",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1776",
+    "ilce_title": "BEYDAĞ",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1777",
+    "ilce_title": "BEYLİKOVA",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1778",
+    "ilce_title": "BOĞAZKALE",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1779",
+    "ilce_title": "BOZYAZI",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1780",
+    "ilce_title": "BUCA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1781",
+    "ilce_title": "BUHARKENT",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1782",
+    "ilce_title": "BÜYÜKÇEKMECE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1783",
+    "ilce_title": "BÜYÜKORHAN",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1784",
+    "ilce_title": "CUMAYERİ",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1785",
+    "ilce_title": "ÇAĞLAYANCERİT",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1786",
+    "ilce_title": "ÇALDIRAN",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1787",
+    "ilce_title": "DARGEÇİT",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "1788",
+    "ilce_title": "DEMİRÖZÜ",
+    "ilce_sehirkey": "69"
+  },
+  {
+    "ilce_key": "1789",
+    "ilce_title": "DEREBUCAK",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1790",
+    "ilce_title": "DUMLUPINAR",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1791",
+    "ilce_title": "EĞİL",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1792",
+    "ilce_title": "ERZİN",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1793",
+    "ilce_title": "GÖLMARMARA",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1794",
+    "ilce_title": "GÖLYAKA",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1795",
+    "ilce_title": "GÜLYALI",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1796",
+    "ilce_title": "GÜNEYSU",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1797",
+    "ilce_title": "GÜRGENTEPE",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1798",
+    "ilce_title": "GÜROYMAK",
+    "ilce_sehirkey": "13"
+  },
+  {
+    "ilce_key": "1799",
+    "ilce_title": "HARMANCIK",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1800",
+    "ilce_title": "HARRAN",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "1801",
+    "ilce_title": "HASKÖY",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1802",
+    "ilce_title": "HİSARCIK",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1803",
+    "ilce_title": "HONAZ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1804",
+    "ilce_title": "HÜYÜK",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1805",
+    "ilce_title": "İHSANGAZİ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1806",
+    "ilce_title": "İMAMOĞLU",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "1807",
+    "ilce_title": "İNCİRLİOVA",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1808",
+    "ilce_title": "İNÖNÜ",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1809",
+    "ilce_title": "İSCEHİSAR",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1810",
+    "ilce_title": "KAĞITHANE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1811",
+    "ilce_title": "DEMRE",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1812",
+    "ilce_title": "KARAÇOBAN",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1813",
+    "ilce_title": "KARAMANLI",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1814",
+    "ilce_title": "KARATAY",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1815",
+    "ilce_title": "KAHRAMANKAZAN",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1816",
+    "ilce_title": "KEMER",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1817",
+    "ilce_title": "KIZILIRMAK",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1818",
+    "ilce_title": "KOCAALİ",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1819",
+    "ilce_title": "KONAK",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1820",
+    "ilce_title": "KOVANCILAR",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1821",
+    "ilce_title": "KÖRFEZ",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "1822",
+    "ilce_title": "KÖSE",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1823",
+    "ilce_title": "KÜÇÜKÇEKMECE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1824",
+    "ilce_title": "MARMARA",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1825",
+    "ilce_title": "MARMARAEREĞLİSİ",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "1826",
+    "ilce_title": "MENDERES",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "1827",
+    "ilce_title": "MERAM",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1828",
+    "ilce_title": "MURGUL",
+    "ilce_sehirkey": "8"
+  },
+  {
+    "ilce_key": "1829",
+    "ilce_title": "NİLÜFER",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1830",
+    "ilce_title": "19 MAYIS",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1831",
+    "ilce_title": "ORTACA",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1832",
+    "ilce_title": "OSMANGAZİ",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1833",
+    "ilce_title": "PAMUKOVA",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1834",
+    "ilce_title": "PAZAR",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1835",
+    "ilce_title": "PENDİK",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1836",
+    "ilce_title": "PINARBAŞI",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1837",
+    "ilce_title": "PİRAZİZ",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1838",
+    "ilce_title": "SALIPAZARI",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1839",
+    "ilce_title": "SELÇUKLU",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1840",
+    "ilce_title": "SERİNHİSAR",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1841",
+    "ilce_title": "ŞAHİNBEY",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1842",
+    "ilce_title": "ŞALPAZARI",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1843",
+    "ilce_title": "ŞAPHANE",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1844",
+    "ilce_title": "ŞEHİTKAMİL",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1845",
+    "ilce_title": "ŞENPAZAR",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1846",
+    "ilce_title": "TALAS",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1847",
+    "ilce_title": "TARAKLI",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1848",
+    "ilce_title": "TAŞKENT",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1849",
+    "ilce_title": "TEKKEKÖY",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1850",
+    "ilce_title": "UĞURLUDAĞ",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1851",
+    "ilce_title": "UZUNDERE",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1852",
+    "ilce_title": "ÜMRANİYE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1853",
+    "ilce_title": "ÜZÜMLÜ",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1854",
+    "ilce_title": "YAĞLIDERE",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1855",
+    "ilce_title": "YAYLADERE",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1856",
+    "ilce_title": "YENİCE",
+    "ilce_sehirkey": "78"
+  },
+  {
+    "ilce_key": "1857",
+    "ilce_title": "YENİPAZAR",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1858",
+    "ilce_title": "YEŞİLYURT",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1859",
+    "ilce_title": "YILDIRIM",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1860",
+    "ilce_title": "AĞAÇÖREN",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1861",
+    "ilce_title": "GÜZELYURT",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1862",
+    "ilce_title": "KAZIMKARABEKİR",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1863",
+    "ilce_title": "KOCASİNAN",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1864",
+    "ilce_title": "MELİKGAZİ",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1865",
+    "ilce_title": "PAZARYOLU",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1866",
+    "ilce_title": "SARIYAHŞİ",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1867",
+    "ilce_title": "AĞLI",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1868",
+    "ilce_title": "AHIRLI",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1869",
+    "ilce_title": "AKÇAKENT",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1870",
+    "ilce_title": "AKINCILAR",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1871",
+    "ilce_title": "PAMUKKALE",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1872",
+    "ilce_title": "AKYURT",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1873",
+    "ilce_title": "ALACAKAYA",
+    "ilce_sehirkey": "23"
+  },
+  {
+    "ilce_key": "1874",
+    "ilce_title": "ALTINYAYLA",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1875",
+    "ilce_title": "ALTINYAYLA",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1876",
+    "ilce_title": "ALTUNHİSAR",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1877",
+    "ilce_title": "AYDINCIK",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1878",
+    "ilce_title": "TİLLO",
+    "ilce_sehirkey": "56"
+  },
+  {
+    "ilce_key": "1879",
+    "ilce_title": "AYVACIK",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1880",
+    "ilce_title": "BAHŞİLİ",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1881",
+    "ilce_title": "BAKLAN",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1882",
+    "ilce_title": "BALIŞEYH",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1883",
+    "ilce_title": "BAŞÇİFTLİK",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1884",
+    "ilce_title": "BAŞYAYLA",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1885",
+    "ilce_title": "BAYRAMÖREN",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1886",
+    "ilce_title": "BAYRAMPAŞA",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "1887",
+    "ilce_title": "BELEN",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1888",
+    "ilce_title": "BEYAĞAÇ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1889",
+    "ilce_title": "BOZKURT",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "1890",
+    "ilce_title": "BOZTEPE",
+    "ilce_sehirkey": "40"
+  },
+  {
+    "ilce_key": "1891",
+    "ilce_title": "ÇAMAŞ",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1892",
+    "ilce_title": "ÇAMLIYAYLA",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "1893",
+    "ilce_title": "ÇAMOLUK",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1894",
+    "ilce_title": "ÇANAKÇI",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1895",
+    "ilce_title": "ÇANDIR",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1896",
+    "ilce_title": "ÇARŞIBAŞI",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1897",
+    "ilce_title": "ÇATALPINAR",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1898",
+    "ilce_title": "ÇAVDARHİSAR",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1899",
+    "ilce_title": "ÇAVDIR",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1900",
+    "ilce_title": "ÇAYBAŞI",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1901",
+    "ilce_title": "ÇELEBİ",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1902",
+    "ilce_title": "ÇELTİK",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1903",
+    "ilce_title": "ÇELTİKÇİ",
+    "ilce_sehirkey": "15"
+  },
+  {
+    "ilce_key": "1904",
+    "ilce_title": "ÇİFTLİK",
+    "ilce_sehirkey": "51"
+  },
+  {
+    "ilce_key": "1905",
+    "ilce_title": "ÇİLİMLİ",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "1906",
+    "ilce_title": "ÇOBANLAR",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1907",
+    "ilce_title": "DERBENT",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1908",
+    "ilce_title": "DEREPAZARI",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1909",
+    "ilce_title": "DERNEKPAZARI",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1910",
+    "ilce_title": "DİKMEN",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1911",
+    "ilce_title": "DODURGA",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1912",
+    "ilce_title": "DOĞANKENT",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1913",
+    "ilce_title": "DOĞANŞAR",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1914",
+    "ilce_title": "DOĞANYOL",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1915",
+    "ilce_title": "DOĞANYURT",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1916",
+    "ilce_title": "DÖRTDİVAN",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1917",
+    "ilce_title": "DÜZKÖY",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1918",
+    "ilce_title": "EDREMİT",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1919",
+    "ilce_title": "EKİNÖZÜ",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1920",
+    "ilce_title": "EMİRGAZİ",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1921",
+    "ilce_title": "ESKİL",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1922",
+    "ilce_title": "ETİMESGUT",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1923",
+    "ilce_title": "EVCİLER",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1924",
+    "ilce_title": "EVREN",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "1925",
+    "ilce_title": "FERİZLİ",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1926",
+    "ilce_title": "GÖKÇEBEY",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "1927",
+    "ilce_title": "GÖLOVA",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1928",
+    "ilce_title": "GÖMEÇ",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "1929",
+    "ilce_title": "GÖNEN",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "1930",
+    "ilce_title": "GÜCE",
+    "ilce_sehirkey": "28"
+  },
+  {
+    "ilce_key": "1931",
+    "ilce_title": "GÜÇLÜKONAK",
+    "ilce_sehirkey": "73"
+  },
+  {
+    "ilce_key": "1932",
+    "ilce_title": "GÜLAĞAÇ",
+    "ilce_sehirkey": "68"
+  },
+  {
+    "ilce_key": "1933",
+    "ilce_title": "GÜNEYSINIR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1934",
+    "ilce_title": "GÜNYÜZÜ",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1935",
+    "ilce_title": "GÜRSU",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1936",
+    "ilce_title": "HACILAR",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1937",
+    "ilce_title": "HALKAPINAR",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1938",
+    "ilce_title": "HAMAMÖZÜ",
+    "ilce_sehirkey": "5"
+  },
+  {
+    "ilce_key": "1939",
+    "ilce_title": "HAN",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1940",
+    "ilce_title": "HANÖNÜ",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1941",
+    "ilce_title": "HASANKEYF",
+    "ilce_sehirkey": "72"
+  },
+  {
+    "ilce_key": "1942",
+    "ilce_title": "HAYRAT",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1943",
+    "ilce_title": "HEMŞİN",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1944",
+    "ilce_title": "HOCALAR",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1945",
+    "ilce_title": "AZİZİYE",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1946",
+    "ilce_title": "İBRADI",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1947",
+    "ilce_title": "İKİZCE",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1948",
+    "ilce_title": "İNHİSAR",
+    "ilce_sehirkey": "11"
+  },
+  {
+    "ilce_key": "1949",
+    "ilce_title": "İYİDERE",
+    "ilce_sehirkey": "53"
+  },
+  {
+    "ilce_key": "1950",
+    "ilce_title": "KABADÜZ",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1951",
+    "ilce_title": "KABATAŞ",
+    "ilce_sehirkey": "52"
+  },
+  {
+    "ilce_key": "1952",
+    "ilce_title": "KADIŞEHRİ",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1953",
+    "ilce_title": "KALE",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1954",
+    "ilce_title": "KARAKEÇİLİ",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1955",
+    "ilce_title": "KARAPÜRÇEK",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1956",
+    "ilce_title": "KARKAMIŞ",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1957",
+    "ilce_title": "KARPUZLU",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1958",
+    "ilce_title": "KAVAKLIDERE",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "1959",
+    "ilce_title": "KEMER",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "1960",
+    "ilce_title": "KESTEL",
+    "ilce_sehirkey": "16"
+  },
+  {
+    "ilce_key": "1961",
+    "ilce_title": "KIZILÖREN",
+    "ilce_sehirkey": "3"
+  },
+  {
+    "ilce_key": "1962",
+    "ilce_title": "KOCAKÖY",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "1963",
+    "ilce_title": "KORGUN",
+    "ilce_sehirkey": "18"
+  },
+  {
+    "ilce_key": "1964",
+    "ilce_title": "KORKUT",
+    "ilce_sehirkey": "49"
+  },
+  {
+    "ilce_key": "1965",
+    "ilce_title": "KÖPRÜBAŞI",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "1966",
+    "ilce_title": "KÖPRÜBAŞI",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "1967",
+    "ilce_title": "KÖPRÜKÖY",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "1968",
+    "ilce_title": "KÖŞK",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "1969",
+    "ilce_title": "KULUNCAK",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1970",
+    "ilce_title": "KUMLU",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "1971",
+    "ilce_title": "KÜRTÜN",
+    "ilce_sehirkey": "29"
+  },
+  {
+    "ilce_key": "1972",
+    "ilce_title": "LAÇİN",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1973",
+    "ilce_title": "MİHALGAZİ",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "1974",
+    "ilce_title": "NURDAĞI",
+    "ilce_sehirkey": "27"
+  },
+  {
+    "ilce_key": "1975",
+    "ilce_title": "NURHAK",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "1976",
+    "ilce_title": "OĞUZLAR",
+    "ilce_sehirkey": "19"
+  },
+  {
+    "ilce_key": "1977",
+    "ilce_title": "OTLUKBELİ",
+    "ilce_sehirkey": "24"
+  },
+  {
+    "ilce_key": "1978",
+    "ilce_title": "ÖZVATAN",
+    "ilce_sehirkey": "38"
+  },
+  {
+    "ilce_key": "1979",
+    "ilce_title": "PAZARLAR",
+    "ilce_sehirkey": "43"
+  },
+  {
+    "ilce_key": "1980",
+    "ilce_title": "SARAY",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "1981",
+    "ilce_title": "SARAYDÜZÜ",
+    "ilce_sehirkey": "57"
+  },
+  {
+    "ilce_key": "1982",
+    "ilce_title": "SARAYKENT",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "1983",
+    "ilce_title": "SARIVELİLER",
+    "ilce_sehirkey": "70"
+  },
+  {
+    "ilce_key": "1984",
+    "ilce_title": "SEYDİLER",
+    "ilce_sehirkey": "37"
+  },
+  {
+    "ilce_key": "1985",
+    "ilce_title": "SİNCİK",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1986",
+    "ilce_title": "SÖĞÜTLÜ",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "1987",
+    "ilce_title": "SULUSARAY",
+    "ilce_sehirkey": "60"
+  },
+  {
+    "ilce_key": "1988",
+    "ilce_title": "SÜLOĞLU",
+    "ilce_sehirkey": "22"
+  },
+  {
+    "ilce_key": "1989",
+    "ilce_title": "TUT",
+    "ilce_sehirkey": "2"
+  },
+  {
+    "ilce_key": "1990",
+    "ilce_title": "TUZLUKÇU",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1991",
+    "ilce_title": "ULAŞ",
+    "ilce_sehirkey": "58"
+  },
+  {
+    "ilce_key": "1992",
+    "ilce_title": "YAHŞİHAN",
+    "ilce_sehirkey": "71"
+  },
+  {
+    "ilce_key": "1993",
+    "ilce_title": "YAKAKENT",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "1994",
+    "ilce_title": "YALIHÜYÜK",
+    "ilce_sehirkey": "42"
+  },
+  {
+    "ilce_key": "1995",
+    "ilce_title": "YAZIHAN",
+    "ilce_sehirkey": "44"
+  },
+  {
+    "ilce_key": "1996",
+    "ilce_title": "YEDİSU",
+    "ilce_sehirkey": "12"
+  },
+  {
+    "ilce_key": "1997",
+    "ilce_title": "YENİÇAĞA",
+    "ilce_sehirkey": "14"
+  },
+  {
+    "ilce_key": "1998",
+    "ilce_title": "YENİFAKILI",
+    "ilce_sehirkey": "66"
+  },
+  {
+    "ilce_key": "2000",
+    "ilce_title": "DİDİM",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "2001",
+    "ilce_title": "YENİŞARBADEMLİ",
+    "ilce_sehirkey": "32"
+  },
+  {
+    "ilce_key": "2002",
+    "ilce_title": "YEŞİLLİ",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "2003",
+    "ilce_title": "AVCILAR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2004",
+    "ilce_title": "BAĞCILAR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2005",
+    "ilce_title": "BAHÇELİEVLER",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2006",
+    "ilce_title": "BALÇOVA",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2007",
+    "ilce_title": "ÇİĞLİ",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2008",
+    "ilce_title": "DAMAL",
+    "ilce_sehirkey": "75"
+  },
+  {
+    "ilce_key": "2009",
+    "ilce_title": "GAZİEMİR",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2010",
+    "ilce_title": "GÜNGÖREN",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2011",
+    "ilce_title": "KARAKOYUNLU",
+    "ilce_sehirkey": "76"
+  },
+  {
+    "ilce_key": "2012",
+    "ilce_title": "MALTEPE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2013",
+    "ilce_title": "NARLIDERE",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2014",
+    "ilce_title": "SULTANBEYLİ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2015",
+    "ilce_title": "TUZLA",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2016",
+    "ilce_title": "ESENLER",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2017",
+    "ilce_title": "GÜMÜŞOVA",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "2018",
+    "ilce_title": "GÜZELBAHÇE",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2019",
+    "ilce_title": "ALTINOVA",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "2020",
+    "ilce_title": "ARMUTLU",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "2021",
+    "ilce_title": "ÇINARCIK",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "2022",
+    "ilce_title": "ÇİFTLİKKÖY",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "2023",
+    "ilce_title": "ELBEYLİ",
+    "ilce_sehirkey": "79"
+  },
+  {
+    "ilce_key": "2024",
+    "ilce_title": "MUSABEYLİ",
+    "ilce_sehirkey": "79"
+  },
+  {
+    "ilce_key": "2025",
+    "ilce_title": "POLATELİ",
+    "ilce_sehirkey": "79"
+  },
+  {
+    "ilce_key": "2026",
+    "ilce_title": "TERMAL",
+    "ilce_sehirkey": "77"
+  },
+  {
+    "ilce_key": "2027",
+    "ilce_title": "HASANBEYLİ",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "2028",
+    "ilce_title": "SUMBAS",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "2029",
+    "ilce_title": "TOPRAKKALE",
+    "ilce_sehirkey": "80"
+  },
+  {
+    "ilce_key": "2030",
+    "ilce_title": "DERİNCE",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2031",
+    "ilce_title": "KAYNAŞLI",
+    "ilce_sehirkey": "81"
+  },
+  {
+    "ilce_key": "2032",
+    "ilce_title": "SARIÇAM",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "2033",
+    "ilce_title": "ÇUKUROVA",
+    "ilce_sehirkey": "1"
+  },
+  {
+    "ilce_key": "2034",
+    "ilce_title": "PURSAKLAR",
+    "ilce_sehirkey": "6"
+  },
+  {
+    "ilce_key": "2035",
+    "ilce_title": "AKSU",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "2036",
+    "ilce_title": "DÖŞEMEALTI",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "2037",
+    "ilce_title": "KEPEZ",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "2038",
+    "ilce_title": "KONYAALTI",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "2039",
+    "ilce_title": "MURATPAŞA",
+    "ilce_sehirkey": "7"
+  },
+  {
+    "ilce_key": "2040",
+    "ilce_title": "BAĞLAR",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "2041",
+    "ilce_title": "KAYAPINAR",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "2042",
+    "ilce_title": "SUR",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "2043",
+    "ilce_title": "YENİŞEHİR",
+    "ilce_sehirkey": "21"
+  },
+  {
+    "ilce_key": "2044",
+    "ilce_title": "PALANDÖKEN",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "2045",
+    "ilce_title": "YAKUTİYE",
+    "ilce_sehirkey": "25"
+  },
+  {
+    "ilce_key": "2046",
+    "ilce_title": "ODUNPAZARI",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "2047",
+    "ilce_title": "TEPEBAŞI",
+    "ilce_sehirkey": "26"
+  },
+  {
+    "ilce_key": "2048",
+    "ilce_title": "ARNAVUTKÖY",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2049",
+    "ilce_title": "ATAŞEHİR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2050",
+    "ilce_title": "BAŞAKŞEHİR",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2051",
+    "ilce_title": "BEYLİKDÜZÜ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2052",
+    "ilce_title": "ÇEKMEKÖY",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2053",
+    "ilce_title": "ESENYURT",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2054",
+    "ilce_title": "SANCAKTEPE",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2055",
+    "ilce_title": "SULTANGAZİ",
+    "ilce_sehirkey": "34"
+  },
+  {
+    "ilce_key": "2056",
+    "ilce_title": "BAYRAKLI",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2057",
+    "ilce_title": "KARABAĞLAR",
+    "ilce_sehirkey": "35"
+  },
+  {
+    "ilce_key": "2058",
+    "ilce_title": "BAŞİSKELE",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2059",
+    "ilce_title": "ÇAYIROVA",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2060",
+    "ilce_title": "DARICA",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2061",
+    "ilce_title": "DİLOVASI",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2062",
+    "ilce_title": "İZMİT",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2063",
+    "ilce_title": "KARTEPE",
+    "ilce_sehirkey": "41"
+  },
+  {
+    "ilce_key": "2064",
+    "ilce_title": "AKDENİZ",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "2065",
+    "ilce_title": "MEZİTLİ",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "2066",
+    "ilce_title": "TOROSLAR",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "2067",
+    "ilce_title": "YENİŞEHİR",
+    "ilce_sehirkey": "33"
+  },
+  {
+    "ilce_key": "2068",
+    "ilce_title": "ADAPAZARI",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "2069",
+    "ilce_title": "ARİFİYE",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "2070",
+    "ilce_title": "ERENLER",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "2071",
+    "ilce_title": "SERDİVAN",
+    "ilce_sehirkey": "54"
+  },
+  {
+    "ilce_key": "2072",
+    "ilce_title": "ATAKUM",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "2073",
+    "ilce_title": "CANİK",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "2074",
+    "ilce_title": "İLKADIM",
+    "ilce_sehirkey": "55"
+  },
+  {
+    "ilce_key": "2076",
+    "ilce_title": "EFELER",
+    "ilce_sehirkey": "9"
+  },
+  {
+    "ilce_key": "2077",
+    "ilce_title": "ALTIEYLÜL",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "2078",
+    "ilce_title": "KARESİ",
+    "ilce_sehirkey": "10"
+  },
+  {
+    "ilce_key": "2079",
+    "ilce_title": "MERKEZEFENDİ",
+    "ilce_sehirkey": "20"
+  },
+  {
+    "ilce_key": "2080",
+    "ilce_title": "ANTAKYA",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "2081",
+    "ilce_title": "ARSUZ",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "2082",
+    "ilce_title": "DEFNE",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "2083",
+    "ilce_title": "PAYAS",
+    "ilce_sehirkey": "31"
+  },
+  {
+    "ilce_key": "2084",
+    "ilce_title": "DULKADİROĞLU",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "2085",
+    "ilce_title": "ONİKİŞUBAT",
+    "ilce_sehirkey": "46"
+  },
+  {
+    "ilce_key": "2086",
+    "ilce_title": "ŞEHZADELER",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "2087",
+    "ilce_title": "YUNUSEMRE",
+    "ilce_sehirkey": "45"
+  },
+  {
+    "ilce_key": "2088",
+    "ilce_title": "ARTUKLU",
+    "ilce_sehirkey": "47"
+  },
+  {
+    "ilce_key": "2089",
+    "ilce_title": "MENTEŞE",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "2090",
+    "ilce_title": "SEYDİKEMER",
+    "ilce_sehirkey": "48"
+  },
+  {
+    "ilce_key": "2091",
+    "ilce_title": "EYYÜBİYE",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "2092",
+    "ilce_title": "HALİLİYE",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "2093",
+    "ilce_title": "KARAKÖPRÜ",
+    "ilce_sehirkey": "63"
+  },
+  {
+    "ilce_key": "2094",
+    "ilce_title": "ERGENE",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "2095",
+    "ilce_title": "KAPAKLI",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "2096",
+    "ilce_title": "SÜLEYMANPAŞA",
+    "ilce_sehirkey": "59"
+  },
+  {
+    "ilce_key": "2097",
+    "ilce_title": "ORTAHİSAR",
+    "ilce_sehirkey": "61"
+  },
+  {
+    "ilce_key": "2098",
+    "ilce_title": "İPEKYOLU",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "2099",
+    "ilce_title": "TUŞBA",
+    "ilce_sehirkey": "65"
+  },
+  {
+    "ilce_key": "2100",
+    "ilce_title": "KİLİMLİ",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "2101",
+    "ilce_title": "KOZLU",
+    "ilce_sehirkey": "67"
+  },
+  {
+    "ilce_key": "2103",
+    "ilce_title": "ALTINORDU",
+    "ilce_sehirkey": "52"
+  }
+]
